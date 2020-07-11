@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot testing 1`] = `ReactWrapper {}`;
+
+exports[`with ReactDOM 1`] = `ReactWrapper {}`;
+
+exports[`with ReactDOM 2`] = `ReactWrapper {}`;

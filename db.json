@@ -1,0 +1,70 @@
+{
+  "mobiles": [
+    {
+      "id": 1,
+      "name": "Sam S1",
+      "price": 4000,
+      "color": "Black, Gold",
+      "screenSize": "5 inch",
+      "operatingSystem": "Android",
+      "brand":"Samsung",
+      "ram": "4GB",
+      "storage": "128GB"
+    },
+    {
+      "id": 2,
+      "name": "Moto M1",
+      "price": 6000,
+      "color": "Black, Gold",
+      "screenSize": "5 inch",
+      "operatingSystem": "Android",
+      "brand":"Moto",
+      "ram": "4GB",
+      "storage": "128GB"
+    },
+    {
+      "id": 3,
+      "name": "Vivo V1",
+      "brand":"Vivo",
+      "price": 5000,
+      "color": "Black, Gold",
+      "screenSize": "5 inch",
+      "operatingSystem": "Android",
+      "ram": "4GB",
+      "storage": "128GB"
+    },
+    {
+      "id": 4,
+      "name": "Honor H1",
+      "brand":"Honor",
+      "price": 3000,
+      "color": "Black, Gold",
+      "screenSize": "5 inch",
+      "operatingSystem": "Android",
+      "ram": "4GB",
+      "storage": "128GB"
+    },
+    {
+      "id": 5,
+      "name": "Tecno T1",
+      "brand":"Tecno",
+      "price": 8000,
+      "color": "Black, Gold",
+      "screenSize": "5 inch",
+      "operatingSystem": "Android",
+      "ram": "4GB",
+      "storage": "128GB"
+    },
+    {
+      "id": 6,
+      "name": "Sam S2",
+      "brand":"Samsung",
+      "price": 10000,
+      "color": "Black, Gold",
+      "screenSize": "5 inch",
+      "operatingSystem": "Android",
+      "ram": "4GB",
+      "storage": "128GB"
+    }
+  ]
+}
